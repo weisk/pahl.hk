@@ -1,0 +1,23 @@
+{
+  "name": "pahl.hk",
+  "version": "1.0.0",
+  "description": "Family website to showcase any fun projects",
+  "main": "index.js",
+  "scripts": {
+    "serve": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pahls/pahl.hk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pahls/pahl.hk/issues"
+  },
+  "homepage": "https://github.com/pahls/pahl.hk#readme",
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
